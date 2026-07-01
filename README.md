@@ -22,6 +22,15 @@
 
 </p>
 
+<br/>
+
+<!-- ANIMATED TAGLINE -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&repeat=true&width=900&height=60&lines=☕+Writing+clean+Java+code...;%E2%98%81%EF%B8%8F+Architecting+clouds+that+never+fall...;%F0%9F%94%92+Securing+systems+at+zero+trust...;%F0%9F%A4%96+Automating+everything+possible...;%F0%9F%8C%9F+Making+infrastructure+invisible..." />
+  </a>
+</p>
+
 ---
 
 # 🧬 Who Am I?
