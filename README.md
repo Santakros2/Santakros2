@@ -199,16 +199,20 @@ Learning AWS & Microservices
 
 # 🧠 Core Concepts
 
-<div align="center">
+<p align="center">
 
-| 💡 Programming | ⚙️ Backend | 🗄️ Database |
-|:--------------:|:----------:|:-----------:|
-| ☕ Object-Oriented Programming | 🔄 Dependency Injection | 🗃️ DBMS |
-| 📐 SOLID Principles | 🔐 Authentication & Authorization | 🏗️ MVC Architecture |
-| 📚 Collections Framework | 🧵 Multithreading | 🧩 Data Structures & Algorithms |
-| ⚠️ Exception Handling | | |
+<img src="https://img.shields.io/badge/Object--Oriented_Programming-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLID_Principles-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Collections_Framework-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exception_Handling-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multithreading-8E24AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dependency_Injection-43A047?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication_&_Authorization-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-009688?style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
