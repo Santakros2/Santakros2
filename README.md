@@ -7,7 +7,7 @@
 <!-- HERO HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=Shrutik%20Borikar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=Shrutik%20Borikar&fontSize=70&fontColor=00ff00&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=62"/>
 </p>
 
 <!-- Typing -->
