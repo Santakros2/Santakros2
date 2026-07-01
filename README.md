@@ -197,27 +197,18 @@ Learning AWS & Microservices
 ---
 
 
-## 🧠 Core Concepts
+# 🧠 Core Concepts
 
-Object-Oriented Programming
+<div align="center">
 
-SOLID Principles
+| 💡 Programming | ⚙️ Backend | 🗄️ Database |
+|:--------------:|:----------:|:-----------:|
+| ☕ Object-Oriented Programming | 🔄 Dependency Injection | 🗃️ DBMS |
+| 📐 SOLID Principles | 🔐 Authentication & Authorization | 🏗️ MVC Architecture |
+| 📚 Collections Framework | 🧵 Multithreading | 🧩 Data Structures & Algorithms |
+| ⚠️ Exception Handling | | |
 
-Collections Framework
-
-Exception Handling
-
-Multithreading
-
-Dependency Injection
-
-Authentication & Authorization
-
-Data Structures & Algorithms
-
-DBMS
-
-MVC Architecture
+</div>
 
 ---
 
