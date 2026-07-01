@@ -1,111 +1,317 @@
----
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Santakros2&label=Profile%20Views&color=4CAF50&style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20Backend%20Systems-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-4CAF50?style=flat-square" />
+</p>
 
-# 📊 GitHub Dashboard
+<!-- HERO HEADER -->
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=220&section=header&text=Shrutik%20Borikar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20Full%20Stack%20Developer&descSize=20&descAlignY=62"/>
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Santakros2&show_icons=true&theme=tokyonight&count_private=true"/>
+<!-- Typing -->
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santakros2&layout=compact&theme=tokyonight"/>
+<p align="center">
 
-</div>
+<a href="https://git.io/typing-svg">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=☕+Writing+clean+Java+code...;🚀+Building+REST+APIs+with+Spring+Boot...;💻+Creating+Full+Stack+Applications...;📚+Learning+Microservices+and+Cloud...;⚡+Always+Improving+One+Commit+at+a+Time..." />
 
-# 🔥 GitHub Streak
+</a>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Santakros2&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santakros2&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧬 Who Am I?
 
-<div align="center">
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Santakros2&theme=tokyonight&no-frame=true&row=2&column=4"/>
+```yaml
+name: Shrutik Borikar
 
-</div>
+role: Full Stack Java Developer
 
----
+location: Pune, India 🇮🇳
 
-# ⚡ Contribution Snake
+education:
+  Bachelor of Engineering (Information Technology)
 
-<div align="center">
+backend:
+  - Java
+  - Spring Boot
+  - Hibernate (JPA)
+  - JDBC
+  - REST APIs
 
-<img src="https://raw.githubusercontent.com/Santakros2/Santakros2/output/github-contribution-grid-snake-dark.svg"/>
+frontend:
+  - React.js
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap
 
-</div>
+database:
+  - MySQL
+  - PostgreSQL
+  - MongoDB
 
----
+currently_learning:
+  - Spring Security
+  - Microservices
+  - Docker
+  - Kubernetes
+  - AWS
 
-# 📅 GitHub Metrics
+interests:
+  - Backend Engineering
+  - System Design
+  - Data Structures & Algorithms
+  - Open Source
 
-<div align="center">
+open_to:
+  - Full Stack Opportunities
+  - Backend Developer Roles
+  - Open Source Collaboration
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santakros2&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santakros2&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santakros2&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santakros2&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santakros2&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 💻 Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Santakros2&custom_title=My%20GitHub%20Activity&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-```text
-🌱 Spring Boot & Microservices
-☁️ Docker & Kubernetes
-⚡ System Design
-📚 Data Structures & Algorithms
-🔒 Spring Security & JWT
+philosophy:
+  "Write clean code today so future you says thank you."
 ```
+
+---
+
+# 🚀 Current Mission
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+☕
+
+### Java & Spring
+
+Building scalable backend applications
+
+</td>
+
+<td align="center" width="25%">
+
+🌐
+
+### REST APIs
+
+Secure & maintainable API development
+
+</td>
+
+<td align="center" width="25%">
+
+📦
+
+### Docker
+
+Containerizing modern applications
+
+</td>
+
+<td align="center" width="25%">
+
+☁️
+
+### Cloud
+
+Learning AWS & Microservices
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠 Tech Arsenal
+
+## 💻 Programming Languages
+
+Java • JavaScript • TypeScript • SQL
+
+---
+
+## 🎨 Frontend
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+React.js
+
+---
+
+## ⚙ Backend
+
+Spring Boot
+
+Hibernate (JPA)
+
+JDBC
+
+REST APIs
+
+Servlets
+
+Node.js
+
+Express.js
+
+JWT Authentication
+
+MVC Architecture
+
+---
+
+## 🗄 Database
+
+MySQL
+
+PostgreSQL
+
+MongoDB
+
+---
+
+## ☁️ DevOps & Tools
+
+Git
+
+GitHub
+
+Docker
+
+Maven
+
+Linux
+
+CI/CD Basics
+
+---
+
+## 🧠 Core Concepts
+
+Object-Oriented Programming
+
+SOLID Principles
+
+Collections Framework
+
+Exception Handling
+
+Multithreading
+
+Dependency Injection
+
+Authentication & Authorization
+
+Data Structures & Algorithms
+
+DBMS
+
+MVC Architecture
+
+---
+
+# 🚀 Featured Projects
+
+🎬 Movie Review Platform
+
+⭐ Spring Boot
+
+⭐ Hibernate
+
+⭐ MySQL
+
+⭐ REST APIs
+
+⭐ Pagination
+
+⭐ Trending Movies
+
+⭐ MVC Architecture
+
+---
+
+🛒 E-Commerce Platform
+
+⭐ Authentication
+
+⭐ Email Verification
+
+⭐ Shopping Cart
+
+⭐ Razorpay Integration
+
+⭐ Session Management
+
+⭐ Spring Boot
+
+---
+
+🔐 Enigma Simulator
+
+⭐ Core Java
+
+⭐ Collections Framework
+
+⭐ File Encryption
+
+⭐ OOP
+
+⭐ SOLID Principles
+
+---
+
+# 📚 Currently Learning
+
+- Spring Security
+- Microservices
+- Docker
+- Kubernetes
+- AWS
+- System Design
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Master Spring Boot
-- ✅ Build Microservices Projects
-- ✅ Learn Kubernetes
-- ✅ Learn AWS
-- ✅ Solve 500+ DSA Problems
-- ✅ Contribute to Open Source
-- ✅ Land a Product-Based SDE Role
+✅ Solve 500+ LeetCode Problems
+
+✅ Master Spring Boot
+
+✅ Learn Microservices
+
+✅ Learn Kubernetes
+
+✅ Learn AWS
+
+✅ Contribute to Open Source
+
+✅ Become SDE-1
+
+---
+
+# 🤝 Let's Connect
+
+LinkedIn
+
+GitHub
+
+Email
+
+Portfolio (Coming Soon)
